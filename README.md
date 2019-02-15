@@ -9,7 +9,7 @@ HOW TO RUN
 2. unzip folder
 3. run mongod (from .exe or command line)
 4. navigate to IdentityManagement/target
-5. in command line runt he command -> java -jar identity-management.jar
+5. in command line run the command -> java -jar identity-management.jar
 6. in a web browser, navigate to localhost:8080 and continue to login page
 7. Username = lachy, password = gardner
 
